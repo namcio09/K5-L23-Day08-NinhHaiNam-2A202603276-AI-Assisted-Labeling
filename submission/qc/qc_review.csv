@@ -1,0 +1,7 @@
+image,object_id,error_type,reviewer,note
+img_003.jpg,18,thua,,"Box trùng phần trên của cùng xe ba bánh đã được box #4 bao phủ."
+img_003.jpg,19,thua,,"Box trùng phần dưới của cùng xe ba bánh đã được box #4 bao phủ."
+img_006.jpg,,khong,,"Không thấy lỗi rõ trong các box của ảnh mẫu."
+img_014.jpg,,khong,,"Không thấy lỗi rõ trong các box của ảnh mẫu."
+img_031.jpg,481,thua,,"Box person nhận nhầm chiếc mũ trưng bày trên giá quần áo thành người."
+img_035.jpg,,khong,,"Không thấy lỗi rõ trong các box của ảnh mẫu."

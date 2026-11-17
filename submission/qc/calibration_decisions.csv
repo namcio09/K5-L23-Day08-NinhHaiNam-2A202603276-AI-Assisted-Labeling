@@ -1,1 +1,4 @@
 case_id,image,nguon,van_de,quyet_dinh,quy_tac_ghi_vao_guideline,phien_ban_guideline
+CAL-01,img_032.jpg,loi_may,"YOLO26 gọi cyclo là bicycle trong khi cyclo thuộc three_wheeler","Dựa vào loại xe nhìn thấy; cyclo và xe ba bánh gán three_wheeler, không sao chép nhãn bicycle của model","mục 2: phân biệt bicycle với three_wheeler theo loại xe",v1.1
+CAL-02,img_021.jpg,bay_lot,"Bẫy box lỏng vẫn bị lọt trong kết quả cuối","Trước khi chấp nhận box, kiểm tra cả bốn cạnh; chỉnh box lỏng dù nhãn đúng","mục 4.1.1: thêm bước kiểm tra bốn cạnh khi review",v1.1
+CAL-03,img_018.jpg,cau_hoi_mo,"Cụm xe máy dày gần camera; v1.0 chưa nói rõ xử lý khi khó tách từng xe","Vẽ từng xe nếu phân biệt được và box cao ít nhất 20 px; dùng một ignore_region cho cụm từ 5 xe trở lên, mỗi xe cao dưới 20 px và sát nhau khó tách","mục 4.1.6: làm rõ cách xử lý cụm dày gần camera",v1.1
