@@ -5,9 +5,9 @@
 * Lớp (L2 / L3 / khác): L2
 * Tài khoản GitHub: namcio09
 * Repo bài nộp (URL): https://github.com/namcio09/K5-L23-Day08-NinhHaiNam-2A202603276-AI-Assisted-Labeling
-* Commit chốt bài (hash): Chưa chốt; ghi hash commit sau khi hoàn tất và commit hồ sơ
+* Commit chốt bài (hash): c9a01cf7a58e7a744cee5cd416047b7bba7ee0dd
 * Máy: Windows laptop (GPU local chưa xác nhận); suy luận dùng Google Colab Tesla T4, CUDA
-* CVAT (Docker): Chưa ghi nhận phiên bản
+* CVAT (Docker): CVAT v2.81.0
 
 ## Kết quả tóm tắt
 
